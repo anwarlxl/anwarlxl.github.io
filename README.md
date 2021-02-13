@@ -1,10 +1,8 @@
 ## Welcome to Anwar's official Website.
 
-You will know a Chinese man 
+You will get to know a Chinese ITer who is a sensitive guy,. I want to try what can we do together over Github. 
 
-You can use the [editor on GitHub](https://github.com/anwarlxl/anwarlxl.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I were a programmer for a few years, an IT manager for some years, a writer intermittenly.
 
 ### Markdown
 
