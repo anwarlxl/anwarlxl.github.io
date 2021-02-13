@@ -1,8 +1,10 @@
 ## Welcome to Anwar's official Website.
 
-You will get to know a Chinese ITer who is a sensitive guy,. I want to try what can we do together over Github. 
+You will get to know a Chinese ITer who is a sensitive guy, I want to try what can we do together over Github. 
 
 I were a programmer for a few years, an IT manager for some years, a writer intermittenly.
+
+This website will publish my article (mostly in Chinese), collect some python code. 
 
 ### Markdown
 
